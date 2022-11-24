@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+I am a Ph.D. candidate in Regional Science in the City and Regional Planning Department. My primary research interests include Labor Economics, Economics of Immigration, Regional Economics, and Agriculture Economics. I am particularly interested in the socioeconomic and fiscal effects of sudden immigration shocks in the developing world, the willingness to pay for GMO chocolate, and the use of IO, SAM, and SPA models to understand the regional economic effects of investments across a variety of sectors including mining and agriculture. I expect to graduate in Spring 2023.
 
-I am a Research Analyst in the Marine Corps and Defense Workforce Program in the Resources and Force Readiness Division of CNA.  My primary research interests include labor economics and the economics of education with work on K-12 teacher tenure, predictive models of teacher performance, returns to university STEM programs, and major league baseball aging curves.  I am particularly interested in research on teacher selection and incentives to maximize student outcomes.  
-
-<!-- My website is located at <https://KevinCNg.github.io>, which contains my CV and research materials. -->
-
-<!-- My job market paper can be downloaded [here](https://KevinCNg.github.io/files/Ng_Job_Market_paper.pdf). -->
+ 
+<!-- My website is located at <https://AndresCastanoZuluaga.github.io>, which contains my CV and research materials. -->
