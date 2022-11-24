@@ -25,24 +25,23 @@ potential shortage of chocolate? A hedonic and willingness to pay study for diff
 <p style="margin-left: 40px"> with Miguel Gomez </p> </div> 
 <div> 
 Chocolate has been experiencing a significant increase in demand during the last two decades. However, the current powerful boost in demand and the expectations of an even higher one might not be accompanied by an equal increase in supply. Cacao, the main component of chocolate and the one that gives its texture and flavor, faces various threats, from climate change and fungal diseases to political instability in production regions worldwide. One potential solution to the shortage of chocolate is expanding or promoting certain hybrids that have shown good yield and disease resistance. One of the most promising solutions to the cacao shortage might be the CCN-51 cacao hybrid. We used an auction experiment to study the hedonic properties and the factors affecting the WTP for Ecuadorian chocolate produced with different cacao, including the CCN-51 cacao hybrid. We find that smell ratings favored the highest quality cacao compared to the CCN-51 hybrid; however, there were no differences in taste ratings. We also find no difference in mean WTP between the national variety and the CCN-51 cacao hybrid, even when information on the quality and nutritional value of the cacao was provided. Results suggest the expansion in the use of CCN-51 cacao in chocolate production is a plausible alternative to deal with the potential shortage of chocolate.
-</div> <br>
+</div> <br> </p>
 
 
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Work in progress </h2><br>
-<div><a href="">  The effect of immigration on wages and employment, and its adjustment process:  Evidence from the Venezuelan immigration to Colombia between 2014-2019 </a> </div> <br> 
+<div><a href="">  The effect of immigration on wages and employment, and its adjustment process:  Evidence from the Venezuelan immigration to Colombia between 2014-2019 </a> </div> 
 <div>  
 How local labor markets absorb large and unexpected labor supply shocks and the transition path is a key to understanding the impact of immigration on natives’ labor market outcomes. I combine the timing and intensity of Venezuela’s economic and political crisis with the reopening of the borders between Venezuela and Colombia in August 2016 to study the short-term effects of a partially exogenous increase in immigration on both natives and previous Venezuelan immigrants’ labor outcomes. In the short run, immigration from Venezuela doesn’t affect the labor outcomes of previous Venezuelan immigrants in the country. However, it does reduce natives’ wages and increase their probability of being unemployed. These effects are concentrated among the natives with low education, women, and those in the economy's informal sector. These effects dissipate after two years, partially due to internal migration. The evidence provides new policy insights on how governments can respond to sudden immigrant shocks occurring across common borders and how policies promoting immigrants’ relocation, formal entry, and quick access to jobs might attenuate or exacerbate the immigration influence on receiving countries' local labor markets.
-</div> <br>
-</p>
+</div> <br> </p>
 
 
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Publications </h2><br>
 <div><a href="https://github.com/AndresCastanoZuluaga/AndresCastanoZuluaga.github.io/blob/master/files/CastanoEtal2019_ResourcesPolicy.pdf">A structural path analysis of Chilean mining linkages between 1995 and T 2011. What are the channels through which extractive activity affects the economy?</a>, 2019, <i> Resources Policy</i>, 60, 106-117.
 <p style="margin-left: 40px"> with Marcelo Lufin and Miguel Atienza </p>
-</div><br>
-<div> Changes in the extractive industry since the 1990s have been considered an opportunity to increase mining linkages due to the growth of outsourcing and the formation of a more complex organization of the supply chain. Using information from the Chilean input-output tables compiled by the OECD, we analyze whether or not the expected increase in mining linkages has taken place between 1995 and 2011. Furthermore, we extend the study of linkages using a Structural Path Analysis to understand how the effect of mining linkages is either transmitted to other economic activities or has a limited impact on the rest of the Chilean economy. Results show a sig- nificant reduction of mining linkages in Chile especially during the period of higher prices. At the same time, the way the influence of mining activity is transmitted to the rest of the economy through sectoral interactions is limited and lacks complexity. </div>
-</p>
+</div>
+<div> Changes in the extractive industry since the 1990s have been considered an opportunity to increase mining linkages due to the growth of outsourcing and the formation of a more complex organization of the supply chain. Using information from the Chilean input-output tables compiled by the OECD, we analyze whether or not the expected increase in mining linkages has taken place between 1995 and 2011. Furthermore, we extend the study of linkages using a Structural Path Analysis to understand how the effect of mining linkages is either transmitted to other economic activities or has a limited impact on the rest of the Chilean economy. Results show a sig- nificant reduction of mining linkages in Chile especially during the period of higher prices. At the same time, the way the influence of mining activity is transmitted to the rest of the economy through sectoral interactions is limited and lacks complexity. 
+</div> </p>
 
 
