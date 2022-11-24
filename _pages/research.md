@@ -39,7 +39,10 @@ How local labor markets absorb large and unexpected labor supply shocks and the 
 
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Publications </h2><br>
-<div><a href="https://github.com/AndresCastanoZuluaga/AndresCastanoZuluaga.github.io/blob/master/files/CastanoEtal2019_ResourcesPolicy.pdf">A structural path analysis of Chilean mining linkages between 1995 and T 2011. What are the channels through which extractive activity affects the economy?</a>, 2019, <i> Resources Policy</i>, 60, 106-117.</div><br>
+<div><a href="https://github.com/AndresCastanoZuluaga/AndresCastanoZuluaga.github.io/blob/master/files/CastanoEtal2019_ResourcesPolicy.pdf">A structural path analysis of Chilean mining linkages between 1995 and T 2011. What are the channels through which extractive activity affects the economy?</a>, 2019, <i> Resources Policy</i>, 60, 106-117.
+<p style="margin-left: 40px"> with Marcelo Lufin and Miguel Atienza </p>
+</div><br>
 <div> Changes in the extractive industry since the 1990s have been considered an opportunity to increase mining linkages due to the growth of outsourcing and the formation of a more complex organization of the supply chain. Using information from the Chilean input-output tables compiled by the OECD, we analyze whether or not the expected increase in mining linkages has taken place between 1995 and 2011. Furthermore, we extend the study of linkages using a Structural Path Analysis to understand how the effect of mining linkages is either transmitted to other economic activities or has a limited impact on the rest of the Chilean economy. Results show a sig- nificant reduction of mining linkages in Chile especially during the period of higher prices. At the same time, the way the influence of mining activity is transmitted to the rest of the economy through sectoral interactions is limited and lacks complexity. </div>
 </p>
+
 
