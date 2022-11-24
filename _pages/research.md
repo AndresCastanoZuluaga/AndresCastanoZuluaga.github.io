@@ -31,7 +31,7 @@ Chocolate has been experiencing a significant increase in demand during the last
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Work in progress </h2><br>
 <div><a href="">  The effect of immigration on wages and employment, and its adjustment process:  Evidence from the Venezuelan immigration to Colombia between 2014-2019 </a> </div> 
-<div>  
+<div> <br> 
 How local labor markets absorb large and unexpected labor supply shocks and the transition path is a key to understanding the impact of immigration on natives’ labor market outcomes. I combine the timing and intensity of Venezuela’s economic and political crisis with the reopening of the borders between Venezuela and Colombia in August 2016 to study the short-term effects of a partially exogenous increase in immigration on both natives and previous Venezuelan immigrants’ labor outcomes. In the short run, immigration from Venezuela doesn’t affect the labor outcomes of previous Venezuelan immigrants in the country. However, it does reduce natives’ wages and increase their probability of being unemployed. These effects are concentrated among the natives with low education, women, and those in the economy's informal sector. These effects dissipate after two years, partially due to internal migration. The evidence provides new policy insights on how governments can respond to sudden immigrant shocks occurring across common borders and how policies promoting immigrants’ relocation, formal entry, and quick access to jobs might attenuate or exacerbate the immigration influence on receiving countries' local labor markets.
 </div> <br> </p>
 
@@ -40,7 +40,7 @@ How local labor markets absorb large and unexpected labor supply shocks and the 
 <h2> Publications </h2><br>
 <div><a href="https://github.com/AndresCastanoZuluaga/AndresCastanoZuluaga.github.io/blob/master/files/CastanoEtal2019_ResourcesPolicy.pdf">A structural path analysis of Chilean mining linkages between 1995 and T 2011. What are the channels through which extractive activity affects the economy?</a>, 2019, <i> Resources Policy</i>, 60, 106-117.
 <p style="margin-left: 40px"> with Marcelo Lufin and Miguel Atienza </p>
-</div>
+</div> 
 <div> Changes in the extractive industry since the 1990s have been considered an opportunity to increase mining linkages due to the growth of outsourcing and the formation of a more complex organization of the supply chain. Using information from the Chilean input-output tables compiled by the OECD, we analyze whether or not the expected increase in mining linkages has taken place between 1995 and 2011. Furthermore, we extend the study of linkages using a Structural Path Analysis to understand how the effect of mining linkages is either transmitted to other economic activities or has a limited impact on the rest of the Chilean economy. Results show a sig- nificant reduction of mining linkages in Chile especially during the period of higher prices. At the same time, the way the influence of mining activity is transmitted to the rest of the economy through sectoral interactions is limited and lacks complexity. 
 </div> </p>
 
