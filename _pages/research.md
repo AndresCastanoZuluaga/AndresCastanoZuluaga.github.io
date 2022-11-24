@@ -10,6 +10,9 @@ author_profile: true
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Working Papers </h2><br>
 <div><a href="https://github.com/AndresCastanoZuluaga/AndresCastanoZuluaga.github.io/blob/master/files/AndresCastano_Immigration_FiscalCosts.pdf">  The Fiscal Impact of Immigration: Labor Displacement, Wages, and the Allocation of Public Spending </a> </div> <br> 
+<p style="margin-left: 40px"> with Carlos Mesa <br>
+  
+  
 <div>  
 In this paper, we reexamine the effect of immigration on public finances by addressing these second-order effects. Specifically, we look at labor displacement, changes in factor prices (labor and capital), and changes in the allocation and cost of providing public services. To guide our empirical analysis, we present a simple theoretical framework that allows us to derive the implications of changes in population driven by increasing immigration on natives’ net fiscal contributions. We use this framework to explain differences in fiscal contributions for natives and set the ground for exploring the mechanisms in place. We show that the effect of increasing immigrant inflows on the net fiscal contributions of native workers depends on three terms. First, a factor price effect that captures changes in taxes paid that result from both labor displacement and variations in wages, as part of the labor market adjustment, and changes in revenue from capital income. Second, the change in the cost of government service provision. This cost effect may be driven by the mix of goods and services provided (pure, congested, or private goods), changes in the composition of the population, and the overall increase in the local population. Third, changes in the composition of government expenditures and differences in the demand for government services between natives and immigrants.
 
@@ -20,11 +23,13 @@ We exploit exogenous variation in immigration across Colombian metropolitan area
 
 
 <p id="1.5-spaced" style="line-height: 150%;">
-<div><a href="http://kevincng.github.io/files/stem.pdf">The Returns to STEM Programs for Less-Prepared Students</a><br>
-<p style="margin-left: 40px"> with Evan Riehl <br>
-Revise & resubmit, <i> American Economic Journal: Economic Policy </i> </p> </div> <br>
+<div><a href="https://github.com/AndresCastanoZuluaga/AndresCastanoZuluaga.github.io/blob/master/files/AndresCastano_WTP_Chocolate.pdf"> Is the CCN-51 cacao hybrid the solution for the
+potential shortage of chocolate? A hedonic and willingness to pay study for different varieties of Ecuadorian chocolate </a><br>
+<p style="margin-left: 40px"> with Miguel Gomez </p> </div> <br>
 
-<div>We examine how returns to enrolling in science, technology, engineering, and math (STEM) programs vary with students’ academic preparation. We match data on STEM admissions at a Colombian flagship university to nationwide college and earnings records. Our identification strategy combines a regression discontinuity design with variation in admission quotas. We find that less-prepared students were less likely to complete a STEM degree than their more able peers, but they had larger earnings returns to enrolling. Our results suggest that policies that encourage less-prepared students to enroll in STEM programs can yield large but unevenly distributed earnings gains.</div> <br>
+<div> 
+Chocolate has been experiencing a significant increase in demand during the last two decades. However, the current powerful boost in demand and the expectations of an even higher one might not be accompanied by an equal increase in supply. Cacao, the main component of chocolate and the one that gives its texture and flavor, faces various threats, from climate change and fungal diseases to political instability in production regions worldwide. One potential solution to the shortage of chocolate is expanding or promoting certain hybrids that have shown good yield and disease resistance. One of the most promising solutions to the cacao shortage might be the CCN-51 cacao hybrid. We used an auction experiment to study the hedonic properties and the factors affecting the WTP for Ecuadorian chocolate produced with different cacao, including the CCN-51 cacao hybrid. We find that smell ratings favored the highest quality cacao compared to the CCN-51 hybrid; however, there were no differences in taste ratings. We also find no difference in mean WTP between the national variety and the CCN-51 cacao hybrid, even when information on the quality and nutritional value of the cacao was provided. Results suggest the expansion in the use of CCN-51 cacao in chocolate production is a plausible alternative to deal with the potential shortage of chocolate.
+</div> <br>
 
 <p id="1.5-spaced" style="line-height: 150%;">
 <div><a href="http://kevincng.github.io/files/Kevin_Ng_Predicting_Performance.pdf">  Identifying High-Quality Teachers </a> </div> <br> 
