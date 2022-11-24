@@ -9,17 +9,19 @@ author_profile: true
 
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Teaching Assistantships at Cornell University</h2><br>
-<div>Development of Economic Thought and Institutions (ILRLE3440 / ECON 3300), Spring, 2022</div>
-<div>Introductory Labor Economics (ILRLE2400), Fall, 2021</div>
-<div>Introductory Labor Economics (ILRLE2400 & ILRLE5400), Spring, 2020</div>
-<div>Introductory Microeconomics (ECON1110), Fall, 2017 </div><br>
+<div> Inquiry into Politics and Policy (PAM 4060 / GOVT 4998), Graduate Resident Tutor, 2020 - Present</div>
+<div> Microeconomics for Management (NCC 5020)</div><br>
 </p>
 
 <p id="1.5-spaced" style="line-height: 150%;">
-<h2> NJ Mathematics Teacher Certification</h2><br>
-<div>Algebra I and II and Precalculus, Bergen County Academies, Student Teacher, Spring, 2016</div>
-<div>Remedial Math, Ramapo College Reclaim My Math Program, Student Instructor, 2013-2015</div>
-<div>Assorted Classes, River Dell Regional School District, Substitute Teacher, 2013-2016</div>
-<div>Calculus and Statistics, Ramapo College Office of Specialized Services, Tutor, 2013-2015</div>
+<h2> Lecturer at the Universidad Catolica del Norte (Chile)</h2><br>
+<div> Introductory Econometrics, Spring and Fall 2013 </div>
+<div> Introduction to Economics, Spring 2014 and Spring 2015 </div>
+<div> Microeconomics I, Spring and Fall 2014 </div>
+<div> Macroenonomics I, Spring 2015 </div>
 </p>
 	
+<p id="1.5-spaced" style="line-height: 150%;">
+<h2> Teaching Assistantships at the Universidad de Cartagena (Colombia)</h2><br>
+<div> Macroenonomics I, 2009-2011</div>
+</p>
