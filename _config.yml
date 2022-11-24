@@ -4,7 +4,7 @@ locale                   : "en-US"
 title                    : "Andrés Castaño"
 title_separator          : "-"
 name                     : &name "Andrés Castaño"
-description              : &description "I am a Ph.D. candidate in Regional Science in the Department of City and Regional Planning.  My primary research interests include Labor Economics, Economics of Immigration, and Regional Economic Impact Analysis.   I have a particular interest in the socieconomic and fiscal effects of sudden immigration shocks in the developing world.   I expect to graduate in Spring 2023."
+description              : &description "I am a Ph.D. candidate in Regional Science in the Department of City and Regional Planning at Cornell University.  My primary research interests include Labor Economics, Economics of Immigration, and Regional Economic Impact Analysis.   I have a particular interest in the socieconomic and fiscal effects of sudden immigration shocks in the developing world.   I expect to graduate in Spring 2023."
 url                      : https://AndresCastanoZuluaga.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AndresCastanoZuluaga/AndresCastanoZuluaga.github.io"
