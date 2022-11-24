@@ -1,13 +1,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Ng"
+title                    : "Andrés Castaño"
 title_separator          : "-"
-name                     : &name "Kevin Ng"
-description              : &description "I am a Ph.D. candidate in Economics in the Department of Economics at Cornell University.  My primary research interests include Labor Economics and the Economics of Education.   I have a particular interest in teacher selection and incentives to maximize student outcomes.   I expect to graduate in Spring 2022."
-url                      : https://KevinCNg.github.io 
+name                     : &name "Andrés Castaño"
+description              : &description "I am a Ph.D. candidate in Regional Science in the Department of City and Regional Planning.  My primary research interests include Labor Economics, Economics of Immigration, and Regional Economic Impact Analysis.   I have a particular interest in the socieconomic and fiscal effects of sudden immigration shocks in the developing world.   I expect to graduate in Spring 2023."
+url                      : https://AndresCastanoZuluaga.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "KevinCNg/KevinCNg.github.io"
+repository               : "AndresCastanoZuluaga/AndresCastanoZuluaga.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default) 
 words_per_minute         : 160
@@ -51,7 +51,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &KevinNgEcon
+  username               : &landres001
 facebook:
   username               :
   app_id                 :
@@ -74,15 +74,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin Ng"
-  avatar           : "KevinNg.png"
-  bio              : "Research Analyst at CNA Marine Corps and Defense Workforce Program"
-  location         : "Room 445 Uris Hall <div>Cornell University</div> <div>Ithaca, NY 14850</div>"
+  name             : "Andrés Castaño"
+  avatar           : "CastanoAndresHR.jpg"
+  bio              : "Ph.D. Candidate in Regional Science in the City and Regional Planning Department at Cornell University. Currently working as Resident Tutor for the Cornell in Washington Program in DC."
+  location         : "2148 O ST NW <div>CIW</div> <div>Washington, DC 20037</div>"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=MUuSfRoAAAAJ&hl=en&oi=sra"
-  email            : "kcn38@cornell.edu"
-  researchgate     :  
+  googlescholar    : "https://scholar.google.com/citations?user=_wg2zrMAAAAJ&hl=en"
+  email            : "ac986@cornell.edu"
+  researchgate     : "https://www.researchgate.net/profile/Andres-Castano-2" 
   uri              :
   bitbucket        :
   codepen          :
@@ -90,20 +90,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KevinCNg"
+  github           : "AndresCastanoZuluaga"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/andres-castano-zuluaga/"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "KevinNgEcon"
+  twitter          : "landres001"
   vine             :
   weibo            :
   xing             :
