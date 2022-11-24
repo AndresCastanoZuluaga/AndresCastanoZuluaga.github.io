@@ -26,10 +26,10 @@ We exploit exogenous variation in immigration across Colombian metropolitan area
 <div><a href="https://github.com/AndresCastanoZuluaga/AndresCastanoZuluaga.github.io/blob/master/files/AndresCastano_WTP_Chocolate.pdf"> Is the CCN-51 cacao hybrid the solution for the
 potential shortage of chocolate? A hedonic and willingness to pay study for different varieties of Ecuadorian chocolate </a><br>
 <p style="margin-left: 40px"> with Miguel Gomez </p> </div> <br>
-
 <div> 
 Chocolate has been experiencing a significant increase in demand during the last two decades. However, the current powerful boost in demand and the expectations of an even higher one might not be accompanied by an equal increase in supply. Cacao, the main component of chocolate and the one that gives its texture and flavor, faces various threats, from climate change and fungal diseases to political instability in production regions worldwide. One potential solution to the shortage of chocolate is expanding or promoting certain hybrids that have shown good yield and disease resistance. One of the most promising solutions to the cacao shortage might be the CCN-51 cacao hybrid. We used an auction experiment to study the hedonic properties and the factors affecting the WTP for Ecuadorian chocolate produced with different cacao, including the CCN-51 cacao hybrid. We find that smell ratings favored the highest quality cacao compared to the CCN-51 hybrid; however, there were no differences in taste ratings. We also find no difference in mean WTP between the national variety and the CCN-51 cacao hybrid, even when information on the quality and nutritional value of the cacao was provided. Results suggest the expansion in the use of CCN-51 cacao in chocolate production is a plausible alternative to deal with the potential shortage of chocolate.
 </div> <br>
+
 
 <p id="1.5-spaced" style="line-height: 150%;">
 <div><a href="http://kevincng.github.io/files/Kevin_Ng_Predicting_Performance.pdf">  Identifying High-Quality Teachers </a> </div> <br> 
