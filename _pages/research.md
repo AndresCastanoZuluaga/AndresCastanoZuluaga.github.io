@@ -10,8 +10,8 @@ author_profile: true
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Working Papers </h2><br>
 <div><a href="https://github.com/AndresCastanoZuluaga/AndresCastanoZuluaga.github.io/blob/master/files/AndresCastano_Immigration_FiscalCosts.pdf">  The Fiscal Impact of Immigration: Labor Displacement, Wages, and the Allocation of Public Spending </a> </div> <br> 
-<p style="margin-left: 40px"> with Carlos Mesa <br>
-  
+<p style="margin-left: 40px"> with Carlos Mesa </p> </div> <br>
+
   
 <div>  
 In this paper, we reexamine the effect of immigration on public finances by addressing these second-order effects. Specifically, we look at labor displacement, changes in factor prices (labor and capital), and changes in the allocation and cost of providing public services. To guide our empirical analysis, we present a simple theoretical framework that allows us to derive the implications of changes in population driven by increasing immigration on natives’ net fiscal contributions. We use this framework to explain differences in fiscal contributions for natives and set the ground for exploring the mechanisms in place. We show that the effect of increasing immigrant inflows on the net fiscal contributions of native workers depends on three terms. First, a factor price effect that captures changes in taxes paid that result from both labor displacement and variations in wages, as part of the labor market adjustment, and changes in revenue from capital income. Second, the change in the cost of government service provision. This cost effect may be driven by the mix of goods and services provided (pure, congested, or private goods), changes in the composition of the population, and the overall increase in the local population. Third, changes in the composition of government expenditures and differences in the demand for government services between natives and immigrants.
