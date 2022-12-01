@@ -9,7 +9,7 @@ author_profile: true
 
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Teaching Assistantships at Cornell University</h2><br>
-<div> Inquiry into Politics and Policy (PAM 4060 / GOVT 4998), Graduate Resident Tutor, 2020 - Present</div>
+<div> Inquiry into Politics and Policy (PAM 4060 / GOVT 4998), Graduate Resident Tutor, 2020 - Present. You can find a list of the topics I help the students with here </div>
 <div> Microeconomics for Management (NCC 5020)</div><br>
 </p>
 
