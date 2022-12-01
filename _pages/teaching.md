@@ -20,9 +20,11 @@ author_profile: true
 <div> Introduction to Economics, Spring 2014 and Spring 2015 </div>
 <div> Microeconomics I, Spring and Fall 2014 </div>
 <div> Macroenonomics I, Spring 2015 </div>
+<div> Two-week Workshop on Optimization Methods and its applications in Economics, August, 2012 </div>
 </p>
 	
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Teaching Assistantships at the Universidad de Cartagena (Colombia)</h2><br>
 <div> Macroenonomics I, 2009-2011</div>
+<div> One-week workshop on Panel Data Models, applications, and its implementation in Stata, March, 2013 </div>
 </p>
