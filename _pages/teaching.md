@@ -24,7 +24,7 @@ author_profile: true
 </p>
 	
 <p id="1.5-spaced" style="line-height: 150%;">
-<h2> - Teaching Assistantships at the Universidad de Cartagena (Colombia)</h2><br>
+<h2> Teaching Assistantships at the Universidad de Cartagena (Colombia)</h2><br>
 <div> - Macroenonomics I, 2009-2011</div>
 <div> - One-week workshop on Panel Data Models, applications, and its implementation in Stata, March, 2013 </div>
 </p>
