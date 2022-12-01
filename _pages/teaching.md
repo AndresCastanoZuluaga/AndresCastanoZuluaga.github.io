@@ -26,4 +26,3 @@ author_profile: true
 <h2> Teaching Assistantships at the Universidad de Cartagena (Colombia)</h2><br>
 <div> Macroenonomics I, 2009-2011</div>
 </p>
-
