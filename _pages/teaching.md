@@ -27,8 +27,3 @@ author_profile: true
 <div> Macroenonomics I, 2009-2011</div>
 </p>
 
-
-<p id="1.5-spaced" style="line-height: 150%;">
-<h2> Working Papers </h2><br>
-<div><a href="https://github.com/AndresCastanoZuluaga/AndresCastanoZuluaga.github.io/blob/master/files/AndresCastano_Immigration_FiscalCosts.pdf">  The Fiscal Impact of Immigration: Labor Displacement, Wages, and the Allocation of Public Spending </a> </div>
-<p style="margin-left: 40px"> with Carlos Mesa </p> 
