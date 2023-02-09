@@ -16,7 +16,9 @@ author_profile: true
 
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Lecturer at the Universidad Católica del Norte (Chile)</h2><br>
-<div> - Introductory Econometrics, Spring and Fall 2013 </div>
+<div> - Introductory Econometrics, Spring and Fall 2013, 
+<a href="[https://github.com/AndresCastanoZuluaga/AndresCastanoZuluaga.github.io/blob/master/files/List_Topics_CIW.pdf](https://github.com/AndresCastanoZuluaga/Teaching/tree/main/3%20Econometrics%20I%20UCN)"> here </a>
+</div>
 <div> - Introduction to Economics, Spring 2014 and Spring 2015 </div>
 <div> - Microeconomics I, Spring and Fall 2014 </div>
 <div> - Macroenonomics I, Spring 2015 </div>
