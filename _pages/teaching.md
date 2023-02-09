@@ -18,7 +18,7 @@ author_profile: true
 <h2> Lecturer at the Universidad Católica del Norte (Chile)</h2><br>
 <div> - Introductory Econometrics, Spring and Fall 2013,  <a href="https://github.com/AndresCastanoZuluaga/Teaching/tree/main/3%20Econometrics%20I%20UCN"> slides </a> </div>
 <div> - Introduction to Economics, Spring 2014 and Spring 2015, <a href="https://github.com/AndresCastanoZuluaga/Teaching/tree/main/1%20Introductory%20Economics%20UCN"> slides </a> </div>
-<div> - Microeconomics I, Spring and Fall 2014, <a href="https://github.com/AndresCastanoZuluaga/Teaching/tree/main/2%20Microeconomics%20I%20UCN"> slides </a> slides </div>
+<div> - Microeconomics I, Spring and Fall 2014, <a href="https://github.com/AndresCastanoZuluaga/Teaching/tree/main/2%20Microeconomics%20I%20UCN"> slides </a> </div>
 <div> - Macroenonomics I, Spring 2015 </div>
 <div> - Two-week Workshop on Optimization Methods and its applications in Economics, August, 2012 </div>
 </p>
