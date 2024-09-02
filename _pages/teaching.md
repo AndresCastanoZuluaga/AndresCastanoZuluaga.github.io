@@ -6,6 +6,13 @@ author_profile: true
 ---
 
 {% include base_path %}
+<p id="1.5-spaced" style="line-height: 150%;">
+<h2> Assistant Teaching Professor at Carnegie Mellon University in Qatar</h2><br>
+<div> -  Business Science (BA 70106) </div>
+<div> -  Principles of Macroeconomics (ECO - 73103) </div>
+<div> -  Emerging Markets (ECO - 73421) </div>
+<div> -  End-to-End Business Analytics (BA 70469)</div><br>
+</p>
 
 <p id="1.5-spaced" style="line-height: 150%;">
 <h2> Teaching Assistantships at Cornell University</h2><br>
